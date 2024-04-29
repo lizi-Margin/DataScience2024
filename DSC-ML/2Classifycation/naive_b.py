@@ -10,7 +10,7 @@ X = bc.data
 y =  bc.target
 
 
-# 创建Logistic回归模型
+# 创建Naive Bayers回归模型
 nb = GNB()
 sk_nb = sk_NB() # sklearn Naive Bayes 
 
